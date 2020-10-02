@@ -1,0 +1,13 @@
+.HeaderTypo {
+  color: #ff585d;
+  font-weight: 400;
+}
+
+.RestaurantCard {
+  transition: all 0.2s;
+}
+
+.RestaurantCard:hover {
+  background-color: #f9f9f9;
+  transform: scale(1.01) translateY(-5px);
+}
